@@ -6,7 +6,7 @@ A simple little CLI tool for generating gradient images.
 
 The image on the right was made using
 
-```console
+```
 $ gradient 0.15 0.08 290 0.4 0.1 325 50 200 0.1 > demo.png
 ```
 
