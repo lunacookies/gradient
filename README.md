@@ -1,8 +1,10 @@
 # gradient
 
+<img src="https://raw.githubusercontent.com/arzg/gradient/master/demo.png" align="right">
+
 A simple little CLI tool for generating gradient images.
 
-`demo.png` was made using
+The image on the right was made using
 
 ```console
 $ gradient 0.15 0.08 290 0.4 0.1 325 50 200 0.1 > demo.png
